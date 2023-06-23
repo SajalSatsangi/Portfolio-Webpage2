@@ -18,7 +18,8 @@ Welcome to my personal portfolio repository! This repository contains the source
 2. Open the `index.html` file in your web browser to access the portfolio webpage.
 3. Explore the different sections and navigate through the projects and information.
 
-   ##For seeing Preview :- [click here](https://sajalsatsangi.github.io/Portfolio-Webpage2/index.html)
+### For seeing Preview :- 
+[click here](https://sajalsatsangi.github.io/Portfolio-Webpage2/index.html)
 
 Feel free to fork this repository and customize it to create your own personal portfolio webpage. Don't forget to give credit if you decide to use this template as a base for your own portfolio.
 
